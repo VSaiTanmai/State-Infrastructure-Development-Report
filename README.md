@@ -18,7 +18,7 @@ Added derived fields for completion %, balance, and utilization
 📈 Tools Used
 Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 👤 Author
-[Muli Alekhya] – Data Analyst | Student | Infrastructure Research Enthusiast
+[Sai Tanmai] – Data Engineer | Student | Infrastructure Research Enthusiast
 Feel free to fork, star ⭐, or contribute!
 
 An Excel-based dashboard to track state-wise rural road infrastructure progress. Includes data cleaning, derived metrics, and visual insights on project completion, pending work, and financial utilization. Ideal for policy analysis and performance monitoring.
